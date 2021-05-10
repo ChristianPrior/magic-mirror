@@ -63,7 +63,7 @@
     "feedme": "latest",
     "helmet": "^3.21.1",
     "iconv-lite": "latest",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment": "latest",
     "nwmatcher": "^1.4.4",
     "request": "^2.88.0",
